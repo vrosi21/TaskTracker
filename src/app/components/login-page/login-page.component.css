@@ -1,0 +1,12 @@
+.login-page {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.login {
+	align-self: flex-start;
+}
+.signup {
+	align-self: flex-start;
+}
